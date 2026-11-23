@@ -124,7 +124,7 @@ cmake --build --preset msvc-release
 
 ## 📦 Установка
 
-Готовые сборки — на странице [Releases](https://github.com/yourusername/atmosphere-engine/releases):
+Готовые сборки — на странице [Releases](https://github.com/ForzzMinay/atmosphere-engine/releases):
 
 - **Linux** — AppImage (`chmod +x` и запуск)
 - **Windows** — установщик `.exe` / portable-архив
